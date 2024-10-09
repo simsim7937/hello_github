@@ -1,2 +1,0 @@
-hello_github
-안녕하세요
